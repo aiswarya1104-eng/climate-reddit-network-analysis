@@ -1,0 +1,40 @@
+================================================================================
+ACCESS FILE — COSC2671 / COSC3047 Assignment 2
+Group: Postgraduate Group 30
+Members: Dhanya Laxminarayan (s4139554)
+         Irine Biju Panicker (s4137661)
+         Aiswarya Sibi (s4133705)
+================================================================================
+
+REPOSITORY / SHARED DRIVE ACCESS
+----------------------------------
+Platform:   GitHub 
+URL:        https://github.com/aiswarya1104-eng/climate-reddit-network-analysis.git
+            
+
+Access:     The repository has been set to public.
+            
+CONTENTS OF REPOSITORY
+-----------------------
+  s4137661_PG_group30.ipynb              Main analysis notebook (executed)
+  Report_s4137661_PG_Group_30.pdf        Final report
+  Worksheet_s4137661_PG_Group_30.pdf     Team worksheet
+  Access_s4137661_PG_Group_30.txt        This file
+  README.txt                             Setup and run instructions
+  reddit_climate_comments_sample_under10mb.csv     Data sample (under 10 MB)
+
+NOTE ON FULL DATASET
+---------------------
+The full dataset (comment.parquet, ~112 MB) is not stored in the repository
+due to file size limits. It is publicly available at:
+  https://huggingface.co/datasets/cathw/reddit_climate_comment
+
+See README.txt for full instructions on downloading and running the notebook.
+
+CONTACT
+-------
+Team leader: Irine Biju Panicker
+Student no.: s4137661
+RMIT email:  s4137661@student.rmit.edu.au
+
+================================================================================
