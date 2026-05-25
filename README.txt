@@ -30,7 +30,7 @@ SUBMISSION FILES:
   reddit_climate_comments_sample_under10mb.csv     — Data sample under 10 MB
 
 CODE:
-  s4139554_PG_group30.ipynb              — Main analysis notebook (fully
+  s4137661_PG_group30.ipynb              — Main analysis notebook (fully
                                            executed with all outputs)
 
 DATA:
